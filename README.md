@@ -1,9 +1,11 @@
 # backupYupdateLinux
 Pasos y desarrollo de backup y update de linux
 
-##Download and installation:
+## Download and installation:
+- Descargar Rufus [ver página](https://rufus.ie/es_ES.html). Se usará soporte de arranque usb.
 
-##Backup:
+
+## Backup:
 
 ### Opción Uno:
  [Ver página de ejemplo1](https://www.taringa.net/+linux/como-hacer-un-backup-en-linux-desde-la-terminal_u0tp9)
