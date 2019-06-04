@@ -1,12 +1,17 @@
 # backupYupdateLinux
 Pasos y desarrollo de backup y update de linux
 
-##Download and installation:(https://www.taringa.net/+linux/como-hacer-un-backup-en-linux-desde-la-terminal_u0tp9)
+##Download and installation:
 
-##Backup: Pararse en el directorio '$/home/tu usuario/backup' y copy/paste:
+##Backup:
 
-'$tar cvpjf backup.tar.bz2 --exclude=/proc --exclude=/lost+found --exclude=/backup.tar.bz2 --exclude=/mnt --exclude=/sys / --exclude=/tmp'
+### Opción Uno:
+ [Ver página de ejemplo1](https://www.taringa.net/+linux/como-hacer-un-backup-en-linux-desde-la-terminal_u0tp9)
+ 
+- Pararse en el directorio '$/home/tu usuario/backup' y copy/paste:
 
-'$# tar xvpfj backup.tar.bz2 -C /'
+' $tar cvpjf backup.tar.bz2 --exclude=/proc --exclude=/lost+found --exclude=/backup.tar.bz2 --exclude=/mnt --exclude=/sys / --exclude=/tmp '
+
+' $# tar xvpfj backup.tar.bz2 -C / '
 
 
