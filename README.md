@@ -3,7 +3,7 @@ Pasos y desarrollo de backup y update de linux
 
 ## Download and installation:
 - Descargar Rufus [ver página](https://rufus.ie/es_ES.html). Se usará soporte de arranque usb.
-
+- [otra opción desde terminal](https://lignux.com/usb-booteable-con-gnu-linux-desde-la-terminal/)
 
 ## Backup:
 
